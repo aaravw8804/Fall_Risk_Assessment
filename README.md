@@ -2,6 +2,11 @@
 
 > Machine learning system for proactive patient fall risk classification using hospital incident data — supporting safer clinical environments through data-driven decision making.
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Accuracy](https://img.shields.io/badge/Model_Accuracy-85%25+-brightgreen?style=flat)]()
+[![Research Paper](https://img.shields.io/badge/Research_Paper-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](./Fall_Risk_Assessment_Research_Paper.pdf)
+
 ---
 
 ## 📌 Overview
@@ -126,5 +131,5 @@ This system is designed as a **decision-support tool** for hospital safety teams
 
 **Aarav Walavalkar**  
 B.Tech Information Technology, Manipal Institute of Technology  
-LinkedIn: https://www.linkedin.com/in/aarav-walavalkar
-GitHub: https://github.com/aaravw8804
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-walavalkar/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aaravw8804)
